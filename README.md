@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Crowdsale ICO
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Token address: 0x94eE616FE1e061e9c741380C7396D4d5D7EA2642
 
-Try running some of the following tasks:
+Crowdsale contract address: 0x53B3c9464FE7334FB4e9455cf44296fC0fB07Ec3
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Tokens transferred to Crowdsale
